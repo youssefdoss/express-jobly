@@ -1,6 +1,6 @@
 # Jobly Backend
 
-This is the Express backend for Jobly, version 2. This project builds a RESTful API using Node.js, Express, and PostgreSQL.
+This is the Express backend for Jobly, version 2. This project builds a RESTful job search API using Node.js, Express, and PostgreSQL.
 
 ## Table of Contents
 
