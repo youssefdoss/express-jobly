@@ -32,12 +32,14 @@ To run the tests:
 
 ## Project Structure
 
+```
 coverage\       # Coverage report
 helpers\        # Helper for SQL and tokens
 middleware\     # Authorization middleware
 models\         # PSQL models
 routes\         # Routes
 schemas\        # Schemas
+```
 
 ## API Endpoints
 
